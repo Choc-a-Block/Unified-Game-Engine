@@ -61,20 +61,20 @@ PROJECT_BRIEF          = "A game engine built in C++ with OpenGL"
 # pixels and the maximum width should not exceed 200 pixels. Doxygen will copy
 # the logo to the output directory.
 
-PROJECT_LOGO           = "C:/Users/olivi/Downloads/Unified OS Game Engine.png"
+PROJECT_LOGO           = "game_engine_logo.png"
 
 # With the PROJECT_ICON tag one can specify an icon that is included in the tabs
 # when the HTML document is shown. Doxygen will copy the logo to the output
 # directory.
 
-PROJECT_ICON           = "C:/Users/olivi/Downloads/Unified OS Game Engine.png"
+PROJECT_ICON           = "game_engine_icon.png"
 
 # The OUTPUT_DIRECTORY tag is used to specify the (relative or absolute) path
 # into which the generated documentation will be written. If a relative path is
 # entered, it will be relative to the location where doxygen was started. If
 # left blank the current directory will be used.
 
-OUTPUT_DIRECTORY       = "C:/Users/olivi/Downloads/Game Engine Docs"
+OUTPUT_DIRECTORY       = "docs"
 
 # If the CREATE_SUBDIRS tag is set to YES then doxygen will create up to 4096
 # sub-directories (in 2 levels) under the output directory of each output format
