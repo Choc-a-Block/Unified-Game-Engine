@@ -1,0 +1,56 @@
+var annotated_dup =
+[
+    [ "UnifiedEngine", "d6/d23/namespaceUnifiedEngine.html", [
+      [ "Debug", "d1/deb/namespaceUnifiedEngine_1_1Debug.html", [
+        [ "DebugWindow", "df/d84/classUnifiedEngine_1_1Debug_1_1DebugWindow.html", "df/d84/classUnifiedEngine_1_1Debug_1_1DebugWindow" ]
+      ] ],
+      [ "UI", "d9/dd1/namespaceUnifiedEngine_1_1UI.html", [
+        [ "UIVertex", "d0/d54/structUnifiedEngine_1_1UI_1_1UIVertex.html", "d0/d54/structUnifiedEngine_1_1UI_1_1UIVertex" ],
+        [ "Element", "da/def/classUnifiedEngine_1_1UI_1_1Element.html", "da/def/classUnifiedEngine_1_1UI_1_1Element" ],
+        [ "Panel", "de/da8/classUnifiedEngine_1_1UI_1_1Panel.html", "de/da8/classUnifiedEngine_1_1UI_1_1Panel" ],
+        [ "GUI", "d7/d3f/classUnifiedEngine_1_1UI_1_1GUI.html", "d7/d3f/classUnifiedEngine_1_1UI_1_1GUI" ]
+      ] ],
+      [ "GlobalConfig", "dc/dc7/structUnifiedEngine_1_1GlobalConfig.html", "dc/dc7/structUnifiedEngine_1_1GlobalConfig" ],
+      [ "Color", "db/d62/structUnifiedEngine_1_1Color.html", "db/d62/structUnifiedEngine_1_1Color" ],
+      [ "WindowConfig", "dd/d3f/structUnifiedEngine_1_1WindowConfig.html", "dd/d3f/structUnifiedEngine_1_1WindowConfig" ],
+      [ "Window", "d9/d73/classUnifiedEngine_1_1Window.html", "d9/d73/classUnifiedEngine_1_1Window" ],
+      [ "GameInteractionObject", "de/d44/classUnifiedEngine_1_1GameInteractionObject.html", "de/d44/classUnifiedEngine_1_1GameInteractionObject" ],
+      [ "GameInstance", "d2/dba/classUnifiedEngine_1_1GameInstance.html", "d2/dba/classUnifiedEngine_1_1GameInstance" ],
+      [ "Shader", "de/d66/classUnifiedEngine_1_1Shader.html", "de/d66/classUnifiedEngine_1_1Shader" ],
+      [ "TimeController", "d0/d60/classUnifiedEngine_1_1TimeController.html", "d0/d60/classUnifiedEngine_1_1TimeController" ],
+      [ "InputClass", "d9/dfb/classUnifiedEngine_1_1InputClass.html", "d9/dfb/classUnifiedEngine_1_1InputClass" ],
+      [ "KeyboardController", "db/dbb/classUnifiedEngine_1_1KeyboardController.html", "db/dbb/classUnifiedEngine_1_1KeyboardController" ],
+      [ "CursorController", "d1/d95/classUnifiedEngine_1_1CursorController.html", "d1/d95/classUnifiedEngine_1_1CursorController" ],
+      [ "MouseController", "d9/dec/classUnifiedEngine_1_1MouseController.html", "d9/dec/classUnifiedEngine_1_1MouseController" ],
+      [ "Camera", "d3/d69/classUnifiedEngine_1_1Camera.html", "d3/d69/classUnifiedEngine_1_1Camera" ],
+      [ "Collider", "dc/d7c/classUnifiedEngine_1_1Collider.html", "dc/d7c/classUnifiedEngine_1_1Collider" ],
+      [ "BoxCollider", "d2/d30/classUnifiedEngine_1_1BoxCollider.html", "d2/d30/classUnifiedEngine_1_1BoxCollider" ],
+      [ "SphericalCollider", "d7/d1f/classUnifiedEngine_1_1SphericalCollider.html", "d7/d1f/classUnifiedEngine_1_1SphericalCollider" ],
+      [ "MeshCollider", "db/d4e/classUnifiedEngine_1_1MeshCollider.html", "db/d4e/classUnifiedEngine_1_1MeshCollider" ],
+      [ "Material", "db/dd7/classUnifiedEngine_1_1Material.html", "db/dd7/classUnifiedEngine_1_1Material" ],
+      [ "ColorMaterial", "d2/d02/classUnifiedEngine_1_1ColorMaterial.html", "d2/d02/classUnifiedEngine_1_1ColorMaterial" ],
+      [ "GradientMaterial", "d3/d9e/classUnifiedEngine_1_1GradientMaterial.html", "d3/d9e/classUnifiedEngine_1_1GradientMaterial" ],
+      [ "Texture2DMaterial", "d8/d66/classUnifiedEngine_1_1Texture2DMaterial.html", "d8/d66/classUnifiedEngine_1_1Texture2DMaterial" ],
+      [ "RigidBody", "de/da1/classUnifiedEngine_1_1RigidBody.html", "de/da1/classUnifiedEngine_1_1RigidBody" ],
+      [ "ShaderArguments", "d9/d52/structUnifiedEngine_1_1ShaderArguments.html", "d9/d52/structUnifiedEngine_1_1ShaderArguments" ],
+      [ "ShaderObject", "d7/d27/classUnifiedEngine_1_1ShaderObject.html", "d7/d27/classUnifiedEngine_1_1ShaderObject" ],
+      [ "TextureUVs", "d4/d76/structUnifiedEngine_1_1TextureUVs.html", "d4/d76/structUnifiedEngine_1_1TextureUVs" ],
+      [ "Atlas_Space_Identifier", "d8/d2e/structUnifiedEngine_1_1Atlas__Space__Identifier.html", "d8/d2e/structUnifiedEngine_1_1Atlas__Space__Identifier" ],
+      [ "Atlas_Texture_Identifier", "dd/df9/structUnifiedEngine_1_1Atlas__Texture__Identifier.html", "dd/df9/structUnifiedEngine_1_1Atlas__Texture__Identifier" ],
+      [ "Atlas_Image_Location", "d8/d5a/structUnifiedEngine_1_1Atlas__Image__Location.html", "d8/d5a/structUnifiedEngine_1_1Atlas__Image__Location" ],
+      [ "TextureAtlas", "da/d55/classUnifiedEngine_1_1TextureAtlas.html", "da/d55/classUnifiedEngine_1_1TextureAtlas" ],
+      [ "Texture2D", "d4/d6d/classUnifiedEngine_1_1Texture2D.html", "d4/d6d/classUnifiedEngine_1_1Texture2D" ],
+      [ "Transform", "d6/dcc/structUnifiedEngine_1_1Transform.html", "d6/dcc/structUnifiedEngine_1_1Transform" ],
+      [ "GameObject", "d0/d3b/classUnifiedEngine_1_1GameObject.html", "d0/d3b/classUnifiedEngine_1_1GameObject" ],
+      [ "Cube", "de/d90/structUnifiedEngine_1_1Cube.html", "de/d90/structUnifiedEngine_1_1Cube" ],
+      [ "Vertex", "d4/de3/structUnifiedEngine_1_1Vertex.html", "d4/de3/structUnifiedEngine_1_1Vertex" ],
+      [ "Mesh", "d4/dad/structUnifiedEngine_1_1Mesh.html", "d4/dad/structUnifiedEngine_1_1Mesh" ],
+      [ "ObjectComponent", "d4/d28/classUnifiedEngine_1_1ObjectComponent.html", "d4/d28/classUnifiedEngine_1_1ObjectComponent" ],
+      [ "ScriptableObject", "d3/d6d/classUnifiedEngine_1_1ScriptableObject.html", "d3/d6d/classUnifiedEngine_1_1ScriptableObject" ],
+      [ "Skybox", "d4/d2c/classUnifiedEngine_1_1Skybox.html", "d4/d2c/classUnifiedEngine_1_1Skybox" ],
+      [ "SkyboxSolidColor", "dd/df9/classUnifiedEngine_1_1SkyboxSolidColor.html", "dd/df9/classUnifiedEngine_1_1SkyboxSolidColor" ],
+      [ "SkyboxGradient", "d2/dd9/classUnifiedEngine_1_1SkyboxGradient.html", "d2/dd9/classUnifiedEngine_1_1SkyboxGradient" ]
+    ] ],
+    [ "CameraControl", "d5/dbc/classCameraControl.html", "d5/dbc/classCameraControl" ],
+    [ "gladGLversionStruct", "d5/d48/structgladGLversionStruct.html", "d5/d48/structgladGLversionStruct" ]
+];
