@@ -18,5 +18,3 @@ jobs:
           branch: gh-pages
           folder: .
           config_file: Doxyfile
-      - name: List documentation files (Test)
-        run: ls -R docs/html
