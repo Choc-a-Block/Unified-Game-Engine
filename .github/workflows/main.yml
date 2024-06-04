@@ -16,7 +16,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages
-          folder: docs
           config_file: Doxyfile
       - name: Move HTML contents to root
         run: |
